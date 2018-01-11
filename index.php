@@ -18,5 +18,6 @@
 =======
         <h1>Zaliczenie</h1>
 >>>>>>> a25fd419558736278755ead30f2d0f2c88661726
+	<h2>Narzędzia programistyczne</h2>
 </body>
 </html>
