@@ -1,3 +1,10 @@
+<?php
+
+// Tu bedzie skrypt 
+
+?>
+
+<!Doctype html>
 <html>
 <head>
 	<meta charset="utf-8">
