@@ -3,7 +3,8 @@ if(isstet($_GET["wyslij"])
 {
 $imie = $_GET["imie"];
 $nazwisko = $_GET["nazwisko"];
-$wiek =$_GET["wiek"];
+$wiek = $_GET["wiek"];
+
 echo "Witaj ".$imie." ".$nazwisko." ".$wiek;
 
 }
