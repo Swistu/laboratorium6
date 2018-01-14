@@ -25,7 +25,7 @@
 
 <?php
 
-
+echo "skontaktuj sie z nami!";
 include_once("formularz.php");
 include_once("kontakt.php");
 
